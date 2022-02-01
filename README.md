@@ -1,5 +1,6 @@
+The way to get started is to quit talking and begin doing.
+
 ### Hi there 👋 NAMASTE  🙏
-##The way to get started is to quit talking and begin doing.
 
 <!--
 **aditi-3110/aditi-3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currenly a software engineer whose 
+I am currenly a software engineer whose heart and mind is stuck somewhere between data, data and data.
 
